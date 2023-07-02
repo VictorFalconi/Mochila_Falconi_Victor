@@ -1,0 +1,22 @@
+GAMA BAJA - INTEL
+
+Procesador: core i3 7100
+Placa Madre: asus tuf b360m-plus
+Memoria Principal: kingston 8gb ddr4
+Memoria Secundaria: disco 1tb sata
+
+GAMA MEDIA -  INTEL
+
+Procesador: Intel Core i5-12600K 3.7 GHz 10-Core Processor
+Placa Madre: Asus ROG STRIX Z690-A GAMING WIFI D4 ATX LGA1700 Motherboard
+Memoria Principal: Corsair Vengeance LPX 16 GB
+Memoria Secundaria: Ssd 1tb
+GPU: GeForce GT 1030 2GD4 LP OC
+
+GAMA ALTA INTEL
+
+Procesador: Core i9-11900k
+Placa Madre: Asus ROG STRIX Z490-E GAMING ATX LGA1200 Motherboard
+Memoria Principal: G.Skill Trident Z Royal 64 GB
+Memoria Secundaria: Ssd 1tb *2
+GPU: GeForce RTX 4080 Gigabyte GAMING OC

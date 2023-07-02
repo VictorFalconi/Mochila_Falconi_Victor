@@ -1,0 +1,6 @@
+CHEATSHEET GIT GITHUB
+git init: inicializar repo
+git add: agregar archivos al stage
+git commit: realizar commit de los cambios añadidos al stage
+git push: enviar los cambios a github
+git pull: traer cambios de github
